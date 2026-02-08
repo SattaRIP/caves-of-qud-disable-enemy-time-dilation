@@ -1,0 +1,9 @@
+{
+  "id": "DisableEnemyTemporalFugue",
+  "title": "Disable Enemy Temporal Fugue",
+  "author": "mythraps",
+  "version": "1.0.0",
+  "description": "Disables the Temporal Fugue ability for NPCs to improve performance. Player can still use it.",
+  "tags": "Performance, Balance, QoL",
+  "previewImage": "preview.png"
+}
