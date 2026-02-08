@@ -1,0 +1,9 @@
+{
+  "id": "DisableEnemyTimeDilation",
+  "title": "Disable Enemy Time Dilation",
+  "author": "mythraps",
+  "version": "1.0.0",
+  "description": "Disables the Time Dilation ability for NPCs to improve performance. Player can still use it.",
+  "tags": "Performance, Balance, QoL",
+  "previewImage": "preview.png"
+}
