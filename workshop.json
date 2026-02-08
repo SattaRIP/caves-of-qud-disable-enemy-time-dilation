@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 0,
+  "Title": "Disable Enemy Temporal Fugue",
+  "Description": "Performance optimization mod that prevents NPCs from using Temporal Fugue (time clones) while keeping it available for the player.",
+  "Tags": "Performance, Balance, QoL",
+  "Visibility": 0,
+  "ImagePath": "preview.png"
+}
