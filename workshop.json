@@ -1,8 +1,7 @@
 {
-  "WorkshopId": 0,
+  "WorkshopId": 3662847052,
   "Title": "Disable Enemy Time Dilation",
-  "Description": "Performance optimization mod that prevents NPCs from using Time Dilation while keeping it available for the player.\n\n• Reduces lag from multiple Time Dilation activations\n• Player can still use Time Dilation normally\n• Safe to add to existing saves\n• Safe to remove\n• Compatible with other mods\n• Uses Harmony patching for reliability\n\nGitHub: https://github.com/SattaRIP/caves-of-qud-disable-enemy-time-dilation",
+  "Description": "Performance optimization mod that prevents NPCs from using Time Dilation while keeping it available for the player.\n\n  • Reduces lag from multiple Time Dilation activations\n  • Player can still use Time Dilation normally\n  • Safe to add to existing saves\n  • Safe to remove\n  • Compatible with other mods\n  • Uses Harmony patching for reliability\n\nhttps://github.com/SattaRIP/caves-of-qud-disable-enemy-time-dilation\n",
   "Tags": "Performance, Balance, QoL",
-  "Visibility": 2,
-  "ImagePath": "preview.png"
+  "Visibility": "2"
 }

@@ -1,5 +1,7 @@
 # Disable Enemy Time Dilation for Caves of Qud
 
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=3662847052)
+
 A performance optimization mod that prevents NPCs from using the Time Dilation ability while allowing the player to continue using it.
 
 ## Why This Mod?
@@ -18,7 +20,7 @@ A performance optimization mod that prevents NPCs from using the Time Dilation a
 
 ### Via Steam Workshop (Recommended)
 
-[Subscribe on Steam Workshop](#) *(Coming Soon)*
+[Subscribe on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3662847052)
 
 ### Manual Installation
 
