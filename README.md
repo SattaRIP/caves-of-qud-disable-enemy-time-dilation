@@ -1,5 +1,7 @@
 # Disable Enemy Temporal Fugue for Caves of Qud
 
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=3662846794)
+
 A performance optimization mod that prevents NPCs from using the Temporal Fugue ability while allowing the player to continue using it.
 
 ## Why This Mod?
@@ -18,7 +20,7 @@ A performance optimization mod that prevents NPCs from using the Temporal Fugue 
 
 ### Via Steam Workshop (Recommended)
 
-[Subscribe on Steam Workshop](#) *(Coming Soon)*
+[Subscribe on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3662846794)
 
 ### Manual Installation
 

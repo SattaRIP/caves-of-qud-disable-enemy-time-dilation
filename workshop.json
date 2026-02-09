@@ -1,8 +1,7 @@
 {
-  "WorkshopId": 0,
+  "WorkshopId": 3662846794,
   "Title": "Disable Enemy Temporal Fugue",
-  "Description": "Performance optimization mod that prevents NPCs from using Temporal Fugue (time clones) while keeping it available for the player.\n\n• Reduces lag from multiple Temporal Fugue clones\n• Player can still use Temporal Fugue normally\n• Cleaner combat with fewer time clones\n• Safe to add to existing saves\n• Safe to remove\n• Compatible with other mods\n• Uses Harmony patching for reliability\n\nGitHub: https://github.com/SattaRIP/caves-of-qud-disable-enemy-temporal-fugue",
+  "Description": "Performance optimization mod that prevents NPCs from using Temporal Fugue (time clones) while keeping it available for the player.\n\n  • Reduces lag from multiple Temporal Fugue clones\n  • Player can still use Temporal Fugue normally\n  • Cleaner combat with fewer time clones\nhttps://github.com/SattaRIP/caves-of-qud-disable-enemy-temporal-fugue\n\n  • Safe to add to existing saves\n  • Safe to remove\n  • Compatible with other mods\n  • Uses Harmony patching for reliability",
   "Tags": "Performance, Balance, QoL",
-  "Visibility": 2,
-  "ImagePath": "preview.png"
+  "Visibility": "2"
 }
