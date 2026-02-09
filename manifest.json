@@ -3,6 +3,5 @@
   "Title": "Disable Enemy Time Dilation",
   "Author": "mythraps",
   "Description": "Disables the Time Dilation ability for NPCs to improve performance. Player can still use it.",
-  "Tags": "Performance, Balance, QoL",
-  "PreviewImage": "preview.png"
+  "Tags": "Performance, Balance, QoL"
 }
